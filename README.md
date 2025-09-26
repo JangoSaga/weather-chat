@@ -3,6 +3,8 @@
 A modern React chat interface for interacting with a weather agent API. Built with Vite, React, and Tailwind CSS with a clean, minimalist design inspired by modern chat applications.
 
 
+[Watch Demo](assets/weatheragent.mp4)
+
 **Deployed Link**: https://weather-chat-mu.vercel.app/
 
 ## Features
