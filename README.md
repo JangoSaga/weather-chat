@@ -44,6 +44,11 @@ src/
 ├── main.jsx                 
 └── index.css                
 ```
+## Tech stack
+- React.JS
+- React Hooks
+- React Icons
+- Tailwind.css
 
 ## Getting Started
 
